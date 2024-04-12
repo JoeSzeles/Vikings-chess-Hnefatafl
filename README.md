@@ -24,11 +24,11 @@ This project used minmax algorithm with alpha-beta pruning. The heuristic evalua
 - If all attackers are captured, defenders win.
 
 ## Screenshots
-![Screenshot (6)](https://github.com/Bokhtiar-Adil/Vikings-chess-Hnefatafl/assets/103052177/9d4e8d28-6149-4fad-903e-87b953ea9d97)
+![Screenshot (6)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(24).jpg)
 
-![Screenshot (12)](https://github.com/Bokhtiar-Adil/Vikings-chess-Hnefatafl/assets/103052177/3e6367e9-0fdb-42ff-8aa0-7f67ce12e08b)
+![Screenshot (12)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(25).png)
 
-![Screenshot (13)](https://github.com/Bokhtiar-Adil/Vikings-chess-Hnefatafl/assets/103052177/3a350494-636c-4a56-a264-76afedbe0327)
+![Screenshot (13)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(24).jpg)
 
 
 curl -X POST -H "Authorization: Bearer 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" -H "Content-Type: application/json" -d '{"text": "YOUR_MESSAGE"}' https://api.openai.com/v1/completions
