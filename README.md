@@ -24,7 +24,7 @@ This project used minmax algorithm with alpha-beta pruning. The heuristic evalua
 - If all attackers are captured, defenders win.
 
 ## Screenshots
-![Screenshot (6)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(24).jpg)
+![Screenshot (6)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(32).jpg)
 
 ![Screenshot (12)](https://github.com/JoeSzeles/Vikings-chess-Hnefatafl/blob/main/Screenshot%20(25).png)
 
