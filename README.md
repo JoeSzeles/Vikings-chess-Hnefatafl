@@ -30,3 +30,7 @@ This project used minmax algorithm with alpha-beta pruning. The heuristic evalua
 
 ![Screenshot (13)](https://github.com/Bokhtiar-Adil/Vikings-chess-Hnefatafl/assets/103052177/3a350494-636c-4a56-a264-76afedbe0327)
 
+
+curl -X POST -H "Authorization: Bearer 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" -H "Content-Type: application/json" -d '{"text": "YOUR_MESSAGE"}' https://api.openai.com/v1/completions
+
+
